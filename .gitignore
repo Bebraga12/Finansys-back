@@ -32,5 +32,7 @@ build/
 ### VS Code ###
 .vscode/
 
-### util ###
-pom.xml
+src/main/resources/application.properties
+
+### Agent instructions ###
+AGENTS.md
